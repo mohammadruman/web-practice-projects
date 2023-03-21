@@ -1,0 +1,23 @@
+#hi{
+    width: 100%;
+    /* border: solid; */
+   height: 200px;
+   width: 200px;
+    border-top: 0px;
+    background-color: aqua;
+    color: black;
+margin: 0px;
+}
+.top{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+}
+.bottom{
+    background-color: green;
+    width: 200px;
+    height: 200px;
+}
+.p{
+    margin: 0px;
+}
