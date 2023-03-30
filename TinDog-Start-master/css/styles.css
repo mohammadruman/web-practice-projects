@@ -69,3 +69,10 @@ transform: rotate(25deg);
     .icon:hover{
         color: #ff4c68;
     }
+    /* testimonials section */
+    #testimonials{
+padding: 7% 15%;
+text-align: center;
+background-color: orange;
+    }
+    
