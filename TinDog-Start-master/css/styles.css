@@ -52,16 +52,19 @@ p{
     /* Title Image */
 .tittle-image{
 
-width: 60%;
-height: 90%;
-
+width: 25%;
 transform: rotate(25deg);
+position: absolute;
     }
 
     /* feature-box */
-.container-fluids{
-        padding: 7% 15%;
+    #features{
+        padding: 7% 15% 7%;
+        background-color: #fff;
+        position: relative;
+        
     }
+
     .feature-box{
         text-align: center;
         padding: 5%;
@@ -97,4 +100,7 @@ color: #fff;
     }
     #carouselExampleCaptions{
         padding: 7% 15%;
+    }
+    #pricing{
+        padding: 100px;
     }
