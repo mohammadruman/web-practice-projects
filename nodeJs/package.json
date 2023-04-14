@@ -9,6 +9,7 @@
   "author": "Ruman",
   "license": "ISC",
   "dependencies": {
+    "marvel-characters": "^1.0.3",
     "superheroes": "^3.0.0"
   }
 }
