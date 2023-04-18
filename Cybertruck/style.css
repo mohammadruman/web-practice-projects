@@ -460,6 +460,7 @@
       transform: translate(calc(var(--distance) * -1vw), 0);
     }
   }
+
   @keyframes backdrop {
     from {
       transform: translate(calc(var(--distance) * 1vw), 0);
@@ -468,4 +469,13 @@
       transform: translate(calc(var(--distance) * -1vw), 0);
     }
   }
-  
+/*   
+  @keyframes backdrop {
+    from {
+      transform: translate(calc(var(--distance) * 1vw), 0);
+    }
+    to {
+      transform: translate(calc(var(--distance) * -1vw), 0);
+    }
+  }
+   */
