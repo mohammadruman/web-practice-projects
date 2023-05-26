@@ -1,0 +1,14 @@
+{
+  "name": "wtpractice",
+  "version": "1.0.0",
+  "description": "git remote add origin https://github.com/mohammadruman/web.git\r git branch -M main\r git push -u origin main",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
