@@ -1,0 +1,16 @@
+{
+  "name": "newsletterproject",
+  "version": "1.0.0",
+  "description": "this is the project of news letter signup page",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mohammadruman",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "request": "^2.88.2"
+  }
+}
