@@ -30,6 +30,11 @@ const data = {
     }
 ]
 };
+
+
+
+//write a function to find factorial of a number
+
 const jsonData = JSON.stringify(data);
 const url = "https://us21.api.mailchimp.com/3.0/lists/64a494ca57"; 
 const options = {
