@@ -24,8 +24,8 @@ const express = require("express");
 
     //create a new article api
        app.post("/api/v1/articles",async(req,res)=>{
-     const article= await Article.create(req.body);
-     res.status(201).json({
+         const article= await Article.create(req.body);
+        res.status(201).json({
         status:"success",
         article
      })
